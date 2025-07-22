@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "620376972992",
+    "project_id": "integradora-65813",
+    "storage_bucket": "integradora-65813.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620376972992:android:599de7909271e312df9725",
+        "android_client_info": {
+          "package_name": "com.company.Integradora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdS6-3VhgOjdyDqez4dwF2g__d7gkLoWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
